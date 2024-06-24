@@ -1,0 +1,3 @@
+/media/jake/HDD/CPP/tools/XCpp/build/CMakeFiles/main.dir
+/media/jake/HDD/CPP/tools/XCpp/build/CMakeFiles/edit_cache.dir
+/media/jake/HDD/CPP/tools/XCpp/build/CMakeFiles/rebuild_cache.dir
